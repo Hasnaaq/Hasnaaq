@@ -30,15 +30,9 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,vscode" />
 </p>
 <p>
-  <!-- Icons from skillicons -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,vscode" />
-</p>
-
-<!-- Manually added icons -->
-<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40" height="40" alt="Slack" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40" alt="Trello" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/ClickUp_Logo.svg/2048px-ClickUp_Logo.svg.png" width="40" height="40" alt="ClickUp" />
+ 
 </p>
 
 
