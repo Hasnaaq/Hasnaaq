@@ -4,7 +4,7 @@
  I'm a passionate **Frontend Developer** with a strong foundation in modern web technologies and a deep love for building smooth, responsive, and user-centered interfaces.
 
  I specialize in building dynamic web apps using:
-**React.js**, **JavaScript**, **Tailwind CSS**, and **Bootstrap** – always ensuring clean code, performance, and seamless user experience.
+**React.js**, **JavaScript**, **Tailwind CSS**,**Next.js** and **Bootstrap** – always ensuring clean code, performance, and seamless user experience.
 
  I'm driven by details and enjoy turning creative designs into real, functional experiences.
 
@@ -29,27 +29,32 @@
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,vscode" />
 </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,vscode" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ClickUp-7B68EE?logo=clickup&logoColor=white&style=for-the-badge" />
+</p>
 
 ##  Featured Projects
 
-## E-Commerce App  
+# E-Commerce App  
 React + Tailwind | Responsive online store with cart system  
 🔗 [Live Demo](https://ecommerce-hasnaa.vercel.app) • 🔗 [Code](https://github.com/hasnaa-lotfy/ecommerce-app)
 
 
 
-###  Portfolio Website  
+# Portfolio Website  
 Personal website to showcase skills and projects  
 🔗 [Live Demo](https://hasnaa-portfolio.vercel.app) • 🔗 [Code](https://github.com/hasnaa-lotfy/portfolio)
 
----
 
-## Movie App  
+# Movie App  
 Uses Movie API to display latest movies  
 🔗 [Live Demo](https://movie-hasnaa.vercel.app) • 🔗 [Code](https://github.com/hasnaa-lotfy/movie-app)
-
-
-
 
 
 ## Let's Connect
@@ -66,16 +71,7 @@ Uses Movie API to display latest movies
 
 
 
-# Looking Ahead
 
-I'm excited to apply my skills in real-world projects, collaborate with creative minds, and keep pushing the boundaries of web development.
-
----
-
-#Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/hasnaa-lotfy-875889235/)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:hasnaa.frontend@gmail.com)
 
 
 
