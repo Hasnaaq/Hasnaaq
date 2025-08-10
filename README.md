@@ -32,10 +32,11 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40" height="40" alt="Slack" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40" alt="Trello" />
-  <img src="https://apidogs.com/favicon.ico" width="40" height="40" alt="Apidogs" />
-<img src="https://cdn.simpleicons.org/windsurfing/0077B6" width="40" height="40" alt="Windesurf" />
-<img src="https://cdn.simpleicons.org/cursor/000000" width="40" height="40" alt="Curser" />
-<img src="https://clickup.com/favicon.ico" width="40" height="40" alt="ClickUp" />
+  <img src="https://i.imgur.com/vNQl1av.png" width="40" height="40" alt="Apidogs" />
+  <img src="https://i.imgur.com/rzLp1hF.png" width="40" height="40" alt="Windesurf" />
+  <img src="https://i.imgur.com/SCQZxE1.png" width="40" height="40" alt="Curser" />
+  <img src="https://i.imgur.com/4P5oFEd.png" width="40" height="40" alt="ClickUp" />
+
 
 
 
