@@ -32,6 +32,11 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40" height="40" alt="Slack" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40" alt="Trello" />
+  <img src="https://github.com/username/repository/blob/main/assets/apidogs.png?raw=true" width="40" height="40" alt="Apidogs" />
+<img src="https://github.com/username/repository/blob/main/assets/windesurf.png?raw=true" width="40" height="40" alt="Windesurf" />
+<img src="https://github.com/username/repository/blob/main/assets/curser.png?raw=true" width="40" height="40" alt="Curser" />
+<img src="https://github.com/username/repository/blob/main/assets/clickup.png?raw=true" width="40" height="40" alt="ClickUp" />
+
  
 </p>
 
