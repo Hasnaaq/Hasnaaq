@@ -10,8 +10,11 @@
 
 
 <p align="center">
-  <img src="[https://komarev.com/ghpvc/?username=hasnaa-lotfy&label=Profile%20views&color=0e75b6&style=flat](https://portfoliohasnaa.netlify.app/)" alt="hasnaa-lotfy" />
+  <a href="https://portfoliohasnaa.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20Portfolio-ff69b4?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio Button"/>
+  </a>
 </p>
+
 
 
 
