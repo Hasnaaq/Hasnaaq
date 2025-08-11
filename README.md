@@ -11,9 +11,10 @@
 
 <p align="center">
   <a href="https://portfoliohasnaa.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20Portfolio-ff69b4?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio Button"/>
+    <img src="https://img.shields.io/badge/Open%20Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio Button"/>
   </a>
 </p>
+
 
 
 
