@@ -25,7 +25,7 @@
 -  Currently learning **Next.js** and **Framer Motion**.
 -  I create responsive, accessible, and user-friendly web interfaces.
 -  Focused on writing clean and maintainable code.
--  Reach me at: **hasnaalotfy11.com**
+-  Reach me at: **hasnaalotfy11@gmal.com**
 
 
 ##  Tech Stack
