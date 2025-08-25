@@ -6,6 +6,8 @@ With solid experience in **React.js**, **Next.js**, **JavaScript**, and modern s
 
 I thrive on turning creative ideas into functional, real-world products — always paying attention to detail and ensuring a smooth user experience.
 
+<p align="center"> <a href="https://portfoliohasnaa.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/Open%20Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio Button"/> </a> </p>
+
 ---
 
 ## 🚀 About Me
