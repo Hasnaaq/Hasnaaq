@@ -34,17 +34,10 @@ I thrive on turning creative ideas into functional, real-world products — alwa
 
 ## 📂 Featured Projects
 
-### 🛒 E-Commerce App  
-**React + Tailwind CSS** | Fully responsive online store with product listing and cart system.  
-🔗 [Live Demo](https://ecommerce-hasnaa.vercel.app) • 🔗 [Code](https://github.com/hasnaa-lotfy/ecommerce-app)
+### skany app
+**Next.js + Tailwind CSS** | Responsive web platform for browsing residential properties and connecting users with maintenance and repair services. 
+🔗 [Live Demo](https://skanyy.netlify.app/) • 🔗 [Code](https://github.com/Hasnaaq/skany)
 
-### 🎨 Portfolio Website  
-Personal website showcasing my skills, projects, and contact details.  
-🔗 [Live Demo](https://hasnaa-portfolio.vercel.app) • 🔗 [Code](https://github.com/hasnaa-lotfy/portfolio)
-
-### 🎬 Movie App  
-**Movie API** integration to display the latest movies in a clean, responsive UI.  
-🔗 [Live Demo](https://movie-hasnaa.vercel.app) • 🔗 [Code](https://github.com/hasnaa-lotfy/movie-app)
 
 ---
 
