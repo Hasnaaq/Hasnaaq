@@ -23,7 +23,7 @@ I thrive on turning creative ideas into functional, real-world products — alwa
 ## 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,bootstrap,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,bootstrap,git,github,vscode,postman " />
 </p>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40" height="40" alt="Slack" />
