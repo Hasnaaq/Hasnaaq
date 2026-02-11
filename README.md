@@ -10,13 +10,13 @@ I thrive on turning creative ideas into functional, real-world products — alwa
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 💻 Front-End Developer specialized in **React.js** and **Next.js**.
-- 📚 Currently exploring **Framer Motion** and advanced **UI/UX** techniques.
-- 🛠 Experienced in **API integration**, **responsive design**, and **team collaboration tools** like Trello, ClickUp, and Slack.
-- 🎯 Passionate about building **scalable**, **accessible**, and **performance-optimized** web applications.
-- 📩 Reach me at: **hasnaalotfy11@gmail.com**
+-  Front-End Developer specialized in **React.js** and **Next.js**.
+-  Currently exploring **Framer Motion** and advanced **UI/UX** techniques.
+-  Experienced in **API integration**, **responsive design**, and **team collaboration tools** like Trello, ClickUp, and Slack.
+-  Passionate about building **scalable**, **accessible**, and **performance-optimized** web applications.
+-  Reach me at: **hasnaalotfy11@gmail.com**
 
 ---
 
